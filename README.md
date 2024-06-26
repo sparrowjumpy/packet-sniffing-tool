@@ -16,3 +16,7 @@ To install the required dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+## Usage
+```bash
+python network_sniffer.py
