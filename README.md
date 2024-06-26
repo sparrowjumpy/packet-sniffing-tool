@@ -22,3 +22,13 @@ pip install -r requirements.txt
 ```bash
 python network_sniffer.py
 ```
+
+## Contributing
+Feel free to contribute by submitting a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+Email: career.zainzaidi@gmail.com
+
